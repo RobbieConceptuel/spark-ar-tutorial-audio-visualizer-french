@@ -188,4 +188,4 @@ Lien pour en apprendre plus : https://sparkar.facebook.com/ar-studio/learn/
 
 [**Rejoindre Spark AR Francophone**](https://www.facebook.com/groups/2438866923069061)
 
-*Ecris avec amour par Robbie Conceptuel - 2020*
+*Fait avec amour par Robbie Conceptuel - 2020*
