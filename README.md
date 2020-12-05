@@ -16,15 +16,49 @@ Ce tutoriel couvre :
 
 Dans ce tutoriel j'utilise la version 99 de Spark AR Studio.
 
-**Spark AR** est un logiciel gratuit nous permettant de créer en réalité augmenté (Ar) pour l'écosysteme Facebook.
-## Walkthrough Video
+## Pourquoi utiliser Spark AR ? :bulb:
+
+Avec plus de 400'000 créateurs dans plus de 190 pays, Spark AR est la **plus grosse plateforme de Réalité Augmenté sur mobile** .
+Plus de 1,2 Millions d'effets AR ont été publiés sur Facebook et Instagram.
+
+  <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/sparkarinsights.png" width="500">
+
+
+### **Et c'est qu'un début !**
+
+Nous sommes encore dans les prémices de ces technologies. Chaque mise à jour est une surprise de nouvelles fonctionnalités.
+
+Avec ou sans connaissances en programmation, Spark AR Studio élargit vos champs de connaissances et d'experimentation dans vos compétences en création digitale.
+Un logiciel puissant pour créer des effets en Réalité Augmenté.
+
+
+### **Le meilleur outil pour atteindre une large audience!**
+
+
+<a href="https://sparkar.facebook.com/ar-studio/download/">
+  <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/sparkarlogo.svg" width="200">
+</a>
+
+[Télécharger Spark AR Studio](https://sparkar.facebook.com/ar-studio/download/)
+
+## Vidéos :clapper:
+
+Voici une [Walkthrough Vidéo](https://www.youtube.com/embed/1JrhmM9n-BU) du tutoriel.
 
 <a href="https://www.youtube.com/embed/1JrhmM9n-BU">
-  
-  <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer-french/blob/main/images/thumbnailTutorial.png" width="500">
-  </a>
+  <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/thumbnailTutorial.png" width="200">
+</a>
 
-#### [Lien de la video](https://www.youtube.com/embed/1JrhmM9n-BU)
+
+La vidéo suivante est une vidéo étape par étape du tutoriel.
+La vidéo contient tout le processus de création de ce tutoriel.
+
+
+<a href="https://www.youtube.com/embed/1JrhmM9n-BU">
+  <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/thumbnailVideoTutorial.png" width="500">
+</a>
+
+#### [Tutoriel Vidéo](https://youtu.be/1BcGiDr2FO4)
 
 ## Pour commencer
 
@@ -188,4 +222,4 @@ Lien pour en apprendre plus : https://sparkar.facebook.com/ar-studio/learn/
 
 [**Rejoindre Spark AR Francophone**](https://www.facebook.com/groups/2438866923069061)
 
-*Fait avec amour par Robbie Conceptuel - 2020*
+*écris avec :sparkling_heart: par Robbie Conceptuel - 2020*
