@@ -2,7 +2,7 @@
 
 ## Aperçu
 
-Bienvenu dans ce nouveau tutoriel pour Spark AR Studio . 
+Bienvenue dans ce nouveau tutoriel pour Spark AR Studio . 
 Dans ce projet, nous allons apprendre à faire un **visualiseur audio** en utilisant les fonctionnalitées Audio de Spark AR.
 Ceci est un tutoriel destiné aux débutants.
 
@@ -220,6 +220,6 @@ Lien pour en apprendre plus : https://sparkar.facebook.com/ar-studio/learn/
 [**Rejoindre Spark AR Community**](https://www.facebook.com/groups/SparkARcommunity)
 
 
-[**Rejoindre Spark AR Francophone**](https://www.facebook.com/groups/2438866923069061)
+[**Rejoindre Spark AR Francophone**](https://www.facebook.com/groups/sparkarfr)
 
 *écris avec :sparkling_heart: par Robbie Conceptuel - 2020*
