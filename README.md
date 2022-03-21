@@ -1,6 +1,6 @@
 # Spark AR - Audio Visualizer - Tutoriel en Français
 
-Ce tutoriel est la version en Français de mon entrée aà la compétition: [2020 Developer Circles Community Challenge](https://developercircles2020.devpost.com/) organisé par Facebook.
+Ce tutoriel est la version en Français de mon entrée à la compétition: [2020 Developer Circles Community Challenge](https://developercircles2020.devpost.com/) organisé par Meta.
 
 **Regional Winner** 🏅
 
