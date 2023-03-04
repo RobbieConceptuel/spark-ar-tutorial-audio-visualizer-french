@@ -6,8 +6,8 @@ Ce tutoriel est la version en Français de mon entrée à la compétition: [2020
 
 ## Aperçu
 
-Bienvenue dans ce nouveau tutoriel pour Spark AR Studio . 
-Dans ce projet, nous allons apprendre à faire un **visualiseur audio** en utilisant les fonctionnalitées Audio de Spark AR.
+Bienvenue dans ce nouveau tutoriel pour Meta Spark AR Studio . 
+Dans ce projet, nous allons apprendre à faire un **visualiseur audio** en utilisant les fonctionnalitées Audio de Meta Spark AR.
 Ceci est un tutoriel destiné aux débutants.
 
 À la fin de ce tutoriel, nous saurons comment faire un visualiseur audio comme sur l'image :
@@ -18,9 +18,9 @@ Ce tutoriel couvre :
 * Importer l'objet 3D
 * Faire intéragir l'objet 3D avec l'audio
 
-Dans ce tutoriel j'utilise la version 99 de Spark AR Studio.
+Dans ce tutoriel j'utilise la version 99 de Meta Spark AR Studio.
 
-## Pourquoi utiliser Spark AR ? :bulb:
+## Pourquoi utiliser Meta Spark AR ? :bulb:
 
 Avec plus de 400'000 créateurs dans plus de 190 pays, Spark AR est la **plus grosse plateforme de Réalité Augmenté sur mobile** .
 Plus de 1,2 Millions d'effets AR ont été publiés sur Facebook et Instagram.
@@ -32,7 +32,7 @@ Plus de 1,2 Millions d'effets AR ont été publiés sur Facebook et Instagram.
 
 Nous sommes encore dans les prémices de ces technologies. Chaque mise à jour est une surprise de nouvelles fonctionnalités.
 
-Avec ou sans connaissances en programmation, Spark AR Studio élargit vos champs de connaissances et d'experimentation dans vos compétences en création digitale.
+Avec ou sans connaissances en programmation, Meta Spark AR Studio élargit vos champs de connaissances et d'experimentation dans vos compétences en création digitale.
 Un logiciel puissant pour créer des effets en Réalité Augmenté.
 
 
@@ -72,14 +72,14 @@ Pour ce projet nous avons besoin de :
 * Avoir Spark AR Player installé sur son téléphone [lien pour Spark AR Player](https://sparkar.facebook.com/ar-studio/learn/downloads/)
 
 
-Pour commencer ce tutoriel il faut **télécharger** le logiciel Spark AR Studio puis l'**ouvrir** .
+Pour commencer ce tutoriel il faut **télécharger** le logiciel Meta Spark AR Studio puis l'**ouvrir** .
 Nous avons aussi besoin du modele 3D '**audioBar.fbx**' dans le dossier '3D-model'.
 Nous allons voir les éléments audio et comment les utiliser dans le Patch Editor.
 
 ## Mettre en place la scène
 
 Commençons par :
-1. Ouvrir Spark AR
+1. Ouvrir Meta Spark AR
 2. Nouveau Projet
 3. Choisir Plane Tracking
 
@@ -199,7 +199,7 @@ Votre Patch devrait ressembler à :
 ## Aperçu et Publication
 
 Maintenant que nous avons fini ;
-nous pouvons voir l'aperçu du fichier depuis l'app **Spark AR Player** envoyer sur votre profile **Instagram** :
+nous pouvons voir l'aperçu du fichier depuis l'app **Meta Spark AR Player** envoyer sur votre profile **Instagram** :
 
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer-french/blob/main/images/Preview_effect.png" width="300">
 
@@ -213,9 +213,9 @@ On bottom of your screen :
 
 ## Vous en voulez plus ?
 
-En apprendre plus sur Spark AR :
+En apprendre plus sur Meta Spark AR :
 
-Télécharger Spark AR Studio ici : [Télécharger Spark AR](https://sparkar.facebook.com/ar-studio/download/)
+Télécharger Meta Spark AR Studio ici : [Télécharger Meta Spark AR](https://sparkar.facebook.com/ar-studio/download/)
 
 Lien du projet Github : https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer
 
