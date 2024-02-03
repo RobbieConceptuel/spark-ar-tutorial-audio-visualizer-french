@@ -6,7 +6,7 @@ Ce tutoriel est la version en Français de mon entrée à la compétition: [2020
 
 ## Aperçu
 
-Bienvenue dans ce nouveau tutoriel pour Meta Spark AR Studio . 
+Bienvenue dans ce nouveau tutoriel pour Meta Spark Studio . 
 Dans ce projet, nous allons apprendre à faire un **visualiseur audio** en utilisant les fonctionnalitées Audio de Meta Spark AR.
 Ceci est un tutoriel destiné aux débutants.
 
@@ -20,7 +20,7 @@ Ce tutoriel couvre :
 
 Dans ce tutoriel j'utilise la version 99 de Meta Spark AR Studio.
 
-## Pourquoi utiliser Meta Spark AR ? :bulb:
+## Pourquoi utiliser Meta Spark Studio ? :bulb:
 
 Avec plus de 400'000 créateurs dans plus de 190 pays, Spark AR est la **plus grosse plateforme de Réalité Augmenté sur mobile** .
 Plus de 1,2 Millions d'effets AR ont été publiés sur Facebook et Instagram.
