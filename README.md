@@ -1,5 +1,23 @@
 # Spark AR - Audio Visualizer - Tutoriel en Français
 
+**Note : À compter de janvier 2025, Meta Spark AR Studio a été officiellement arrêté par Meta Platforms Inc.**  
+
+## Qu'est-ce que Spark AR Studio ?  
+Spark AR Studio est un logiciel développé par Meta Platforms Inc. qui permettait aux utilisateurs de créer des expériences de réalité augmentée (AR) interactives.  
+Il a été largement utilisé pour créer des filtres AR populaires sur Instagram, Facebook et d'autres plateformes sociales.  
+Avec ses outils intuitifs et sa forte communauté, Spark AR a joué un rôle clé dans l'essor de l'augmentisme, une tendance qui mélange l'art et la technologie pour enrichir notre perception du monde à travers des expériences numériques.
+
+### La fin de Spark AR Studio  
+En janvier 2025, Meta Platforms Inc. a décidé de mettre fin au développement et au support de Spark AR Studio, marquant ainsi la conclusion d'une plateforme qui a grandement contribué à la croissance de la réalité augmentée sur les réseaux sociaux.
+
+---
+
+Un immense merci à toutes celles et ceux qui ont contribué à Spark AR Studio, à ses ressources, et à l'avancement de l'augmentisme.  
+Votre créativité, votre passion et votre dévouement ont laissé une empreinte durable dans le monde de la réalité augmentée.  
+
+---
+
+
 Ce tutoriel est la version en Français de mon entrée à la compétition: [2020 Developer Circles Community Challenge](https://developercircles2020.devpost.com/) organisé par Meta.
 
 **Regional Winner** 🏅
@@ -67,9 +85,8 @@ La vidéo contient tout le processus de création de ce tutoriel.
 ## Pour commencer
 
 Pour ce projet nous avons besoin de :
-* [Télécharger Spark AR](https://sparkar.facebook.com/ar-studio/download/)
+* Télécharger Spark AR
 * modele 3D dans le dossier 3D-model [lien du modele](https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer-french/blob/main/3D-model/audioBar.fbx)
-* Avoir Spark AR Player installé sur son téléphone [lien pour Spark AR Player](https://sparkar.facebook.com/ar-studio/learn/downloads/)
 
 
 Pour commencer ce tutoriel il faut **télécharger** le logiciel Meta Spark AR Studio puis l'**ouvrir** .
@@ -211,19 +228,9 @@ On bottom of your screen :
 
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer-french/blob/main/images/Upload_and_Export.png" width="200">
 
-## Vous en voulez plus ?
 
-En apprendre plus sur Meta Spark AR :
-
-Télécharger Meta Spark AR Studio ici : [Télécharger Meta Spark AR](https://sparkar.facebook.com/ar-studio/download/)
 
 Lien du projet Github : https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer
 
-Lien pour en apprendre plus : https://sparkar.facebook.com/ar-studio/learn/
-
-[**Rejoindre Spark AR Community**](https://www.facebook.com/groups/SparkARcommunity)
-
-
-[**Rejoindre Spark AR Francophone**](https://www.facebook.com/groups/sparkarfr)
 
 *écris avec :sparkling_heart: par Robbie Conceptuel - 2020*
